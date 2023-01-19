@@ -23,9 +23,9 @@ This project is a backend application for an online store. The customer can see 
    - The name of category
    - A list of products
 
-- *Add new category:* 
-    - path: /category/addCategory
-    - params: @RequestBody CategoryRequest 
-- *Edit category*
-    - path: /editCategory
-    - params: @RequestBody CategoryRequest
+   - *Add new category:* 
+       - path: /category/addCategory
+       - params: @RequestBody CategoryRequest 
+   - *Edit category*
+       - path: /editCategory
+       - params: @RequestBody CategoryRequest
